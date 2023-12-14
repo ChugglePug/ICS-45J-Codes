@@ -1,0 +1,116 @@
+// All of the lecture code for Navarro's ICS 45J
+// assuming she has not changed them 
+//
+// I'm certain that none of them are mistyped
+//
+
+Lecture	Name			                    Code
+
+0-1     Print Statements			2023 (Will most likely change)
+0-1     Errors                              welcome
+
+1-1     Lecture 0-1 Review                  water
+1-1     Variable Declaration                office
+1-1     Using the API doucumentation        sunnyday
+1-1     Accessors and Mutators              roblox
+
+1-2     Lecture 1-1 Review                  snack
+1-2     Public Interfaces                   chicken
+1-2     Class Implementation                silver
+1-2     Implicit and Explicit Parameters    unicorn
+
+2-1     Lecture 1-2 Review                  goose
+2-1     Numbers and Constants               green
+2-1     Math, Input and Output              bacon
+2-1     Strings                             sprouts
+
+2-2     Lecture 2-1 Review                  orchestra
+2-2     Comparing Values                    paste
+2-2     Multiple Alternatives               pool
+2-2     Boolean Operators                   boolean
+
+3-1     Lecture 2-2 Review                  ac
+3-1     while Loops                         dark
+3-1     do Loops, for Loops                 barking
+3-1     Nested Loops                        dowhilefor
+
+3-2     Lecture 3-1 Review                  swimmingly
+3-2     Arrays                              berry
+3-2     Enhanced for Loops                  gravel
+3-2     Two Dimensional Arrays              rats
+3-2     Array Lists                         selfies
+
+4-1     Lecture 3-2 Review                  singers
+4-1     Dependencies, Accessors, and ...    log
+4-1     Paterns for Object Data             chocolate chips
+4-1     Static Variables and Methods        What should I eat for dinner?
+4-1     Packages                            doggo
+
+4-2     Lecture 4-1 Review                  zooming
+4-2     Inheritance Hierarchies             early to bed early to rise
+4-2     Implementing Subclasses             wear your mask
+4-2     Overriding Methods                  social distancing
+4-2     Polymorphism and the Object Class   fatigue
+
+5-1     Lecture 4-2 Review                  study
+5-1     Using Interfaces                    jose
+5-1     Interfaces vs. Inheritance          grove
+5-1     Working with Interface Types        summer breeze
+
+5-2     Lecture 5-1 Review                  inheritance
+5-2     The Comparable Interface            bird
+5-2     Using Interfaces for Callbacks      first place
+5-2     Inner Classes                       poppies
+
+6-1     Lecture 5-2 Review                  power
+6-1     Text Input and Output               wall
+6-1     Command Line Arguments              bedhead
+6-1     Exception Handling                  attitude
+
+@LotusBlssm
+6-2 	Lecture 6-1 Review			        tippity tap
+6-2 	Discovering Classes			        airpods
+6-2 	Relationships Between Classes		energy 
+6-2 	Printing an Invoice Application 	iNeedANap
+
+@jk
+7-1: 	Lecture 7-1: Lecture 6-2 Review		piano
+7-1: 	Recursion				            pepperoni
+7-1: 	Sorting					            shark
+
+@achooo
+8-2	7-1 review                              chilly
+8-2	7-2 linked list                         birthday
+8-2	7-2 sets				                election
+8-2	7-2 maps				                nailbiter
+8-2	7-2 stacks, queues, priority queues	    peppermint
+
+@achooo
+8-1 	7-2 review 				            orange
+8-1 	generic classes and types		    dodgers 
+8-1 	generic methods				        phone 
+8-1 	Constraining Type Variables		    project
+8-1 	Type Erasure				        request
+
+@LotusBlssm
+9-1 	Lecture 8-1 Review			        paper
+9-1 	Frame Windows and Event Handling 	swim
+9-1 	Layout Management			        goggles
+9-1 	Processing Text Input			    library
+9-1 	Choices					            newspaper
+9-1 	Menus 					        noodles
+
+@everyone
+10-1	Lecture 9-1 review			        mouse
+10-1	The Stream Concept			        coffee 
+10-1	Producing Streams			        jamaica
+10-1	Collecting Results			        burrito
+10-1	Stream Transformations			    	poolside
+10-1	Lambda Expressions			        cough
+10-1	The Optional Type			        muscles
+
+10-2	Lecture 10-1 Review			        knots
+10-2	Other Terminal Operations		    	couch
+10-2 	Primitive-type Streams			    	seaweed
+10-2	Grouping Results			        president
+10-2	Reflection/Advice			        purple
