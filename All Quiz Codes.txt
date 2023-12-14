@@ -1,116 +1,194 @@
+//
 // All of the lecture code for Navarro's ICS 45J
 // assuming she has not changed them 
 //
 // I'm certain that none of them are mistyped
 //
 
-Lecture	Name			                    Code
 
-0-1     Print Statements			2023 (Will most likely change)
-0-1     Errors                              welcome
+0-1	Print Statements
+		-Code: 2023 (Will most likely change)
+0-1	Errors
+		-Code: welcome
 
-1-1     Lecture 0-1 Review                  water
-1-1     Variable Declaration                office
-1-1     Using the API doucumentation        sunnyday
-1-1     Accessors and Mutators              roblox
+1-1	Lecture 0-1 Review
+		-Code: water
+1-1	Variable Declaration
+		-Code: office
+1-1	Using the API documentation
+		-Code: sunnyday
+1-1	Accessors and Mutators
+		-Code: roblox
 
-1-2     Lecture 1-1 Review                  snack
-1-2     Public Interfaces                   chicken
-1-2     Class Implementation                silver
-1-2     Implicit and Explicit Parameters    unicorn
+1-2	Lecture 1-1 Review
+		-Code: snack
+1-2	Public Interfaces
+		-Code: chicken
+1-2	Class Implementation
+		-Code: silver
+1-2	Implicit and Explicit Parameters
+		-Code: unicorn
 
-2-1     Lecture 1-2 Review                  goose
-2-1     Numbers and Constants               green
-2-1     Math, Input and Output              bacon
-2-1     Strings                             sprouts
+2-1	Lecture 1-2 Review
+		-Code: goose
+2-1	Numbers and Constants
+		-Code: green
+2-1	Math, Input and Output
+		-Code: bacon
+2-1	Strings	
+		-Code: sprouts
 
-2-2     Lecture 2-1 Review                  orchestra
-2-2     Comparing Values                    paste
-2-2     Multiple Alternatives               pool
-2-2     Boolean Operators                   boolean
+2-2	Lecture 2-1 Review
+		-Code: orchestra
+2-2	Comparing Values
+		-Code: paste
+2-2	Multiple Alternatives
+		-Code: pool
+2-2	Boolean Operators
+		-Code: boolean
 
-3-1     Lecture 2-2 Review                  ac
-3-1     while Loops                         dark
-3-1     do Loops, for Loops                 barking
-3-1     Nested Loops                        dowhilefor
+3-1	Lecture 2-2 Review
+		-Code: ac
+3-1	while Loops
+		-Code: dark
+3-1	do Loops, for Loops
+		-Code: barking
+3-1	Nested Loops
+		-Code: dowhilefor
 
-3-2     Lecture 3-1 Review                  swimmingly
-3-2     Arrays                              berry
-3-2     Enhanced for Loops                  gravel
-3-2     Two Dimensional Arrays              rats
-3-2     Array Lists                         selfies
+3-2	Lecture 3-1 Review
+		-Code: swimmingly
+3-2	Arrays	
+		-Code: berry
+3-2	Enhanced for Loops
+		-Code: gravel
+3-2	Two Dimensional Arrays
+		-Code: rats
+3-2	Array Lists
+		-Code: selfies
 
-4-1     Lecture 3-2 Review                  singers
-4-1     Dependencies, Accessors, and ...    log
-4-1     Paterns for Object Data             chocolate chips
-4-1     Static Variables and Methods        What should I eat for dinner?
-4-1     Packages                            doggo
+4-1	Lecture 3-2 Review
+		-Code: singers
+4-1	Dependencies, Accessors, and Mutators
+		-Code: log
+4-1	Patterns for Object Data
+		-Code: chocolate chips
+4-1	Static Variables and Methods
+		-Code: What should I eat for dinner?
+4-1	Packages
+		-Code: doggo
 
-4-2     Lecture 4-1 Review                  zooming
-4-2     Inheritance Hierarchies             early to bed early to rise
-4-2     Implementing Subclasses             wear your mask
-4-2     Overriding Methods                  social distancing
-4-2     Polymorphism and the Object Class   fatigue
+4-2	Lecture 4-1 Review
+		-Code: zooming
+4-2	Inheritance Hierarchies
+		-Code: early to bed early to rise
+4-2	Implementing Subclasses
+		-Code: wear your mask
+4-2	Overriding Methods
+		-Code: social distancing
+4-2	Polymorphism and the Object Class
+		-Code: fatigue
 
-5-1     Lecture 4-2 Review                  study
-5-1     Using Interfaces                    jose
-5-1     Interfaces vs. Inheritance          grove
-5-1     Working with Interface Types        summer breeze
+5-1	Lecture 4-2 Review
+		-Code: study
+5-1	Using Interfaces
+		-Code: jose
+5-1	Interfaces vs. Inheritance
+		-Code: grove
+5-1	Working with Interface Types
+		-Code: summer breeze
 
-5-2     Lecture 5-1 Review                  inheritance
-5-2     The Comparable Interface            bird
-5-2     Using Interfaces for Callbacks      first place
-5-2     Inner Classes                       poppies
+5-2	Lecture 5-1 Review
+		-Code: inheritance
+5-2	The Comparable Interface
+		-Code: bird
+5-2	Using Interfaces for Callbacks
+		-Code: first place
+5-2	Inner Classes
+		-Code: poppies
 
-6-1     Lecture 5-2 Review                  power
-6-1     Text Input and Output               wall
-6-1     Command Line Arguments              bedhead
-6-1     Exception Handling                  attitude
+6-1	Lecture 5-2 Review
+		-Code: power
+6-1	Text Input and Output
+		-Code: wall
+6-1	Command Line Arguments
+		-Code: bedhead
+6-1	Exception Handling
+		-Code: attitude
 
-@LotusBlssm
-6-2 	Lecture 6-1 Review			        tippity tap
-6-2 	Discovering Classes			        airpods
-6-2 	Relationships Between Classes		energy 
-6-2 	Printing an Invoice Application 	iNeedANap
+6-2	Lecture 6-1 Review
+		-Code: tippity tap
+6-2	Discovering Classes
+		-Code: airpods
+6-2	Relationships Between Classes
+		-Code: energy 
+6-2	Printing an Invoice Application
+		-Code: iNeedANap
 
-@jk
-7-1: 	Lecture 7-1: Lecture 6-2 Review		piano
-7-1: 	Recursion				            pepperoni
-7-1: 	Sorting					            shark
+7-1	Lecture 7-1: Lecture 6-2 Review
+		-Code: piano
+7-1	Recursion
+		-Code: pepperoni
+7-1	Sorting	
+		-Code: shark
 
-@achooo
-8-2	7-1 review                              chilly
-8-2	7-2 linked list                         birthday
-8-2	7-2 sets				                election
-8-2	7-2 maps				                nailbiter
-8-2	7-2 stacks, queues, priority queues	    peppermint
+8-2	Lecture 7-1 Review
+		-Code: chilly
+8-2	Linked List	
+		-Code: birthday
+8-2	Sets
+		-Code: election
+8-2	Maps
+		-Code: nailbiter
+8-2	Stacks, Queues, Priority Queues
+		-Code: peppermint
 
-@achooo
-8-1 	7-2 review 				            orange
-8-1 	generic classes and types		    dodgers 
-8-1 	generic methods				        phone 
-8-1 	Constraining Type Variables		    project
-8-1 	Type Erasure				        request
+8-1	Lecture 7-2 Review
+		-Code: orange
+8-1	Generic Classes and Types
+		-Code: dodgers 
+8-1	Generic Methods
+		-Code: phone 
+8-1	Constraining Type Variables
+		-Code: project
+8-1	Type Erasure
+		-Code: request
 
-@LotusBlssm
-9-1 	Lecture 8-1 Review			        paper
-9-1 	Frame Windows and Event Handling 	swim
-9-1 	Layout Management			        goggles
-9-1 	Processing Text Input			    library
-9-1 	Choices					            newspaper
-9-1 	Menus 					        noodles
+9-1	Lecture 8-1 Review
+		-Code: paper
+9-1	Frame Windows and Event Handling
+		-Code: swim
+9-1	Layout Management
+		-Code: goggles
+9-1	Processing Text Input
+		-Code: library
+9-1	Choices
+		-Code: newspaper
+9-1	Menus
+		-Code: noodles
 
-@everyone
-10-1	Lecture 9-1 review			        mouse
-10-1	The Stream Concept			        coffee 
-10-1	Producing Streams			        jamaica
-10-1	Collecting Results			        burrito
-10-1	Stream Transformations			    	poolside
-10-1	Lambda Expressions			        cough
-10-1	The Optional Type			        muscles
+10-1	Lecture 9-1 review
+		-Code: mouse
+10-1	The Stream Concept
+		-Code: coffee 
+10-1	Producing Streams
+		-Code: jamaica
+10-1	Collecting Results
+		-Code: burrito
+10-1	Stream Transformations
+		-Code: poolside
+10-1	Lambda Expressions
+		-Code: cough
+10-1	The Optional Type
+		-Code: muscles
 
-10-2	Lecture 10-1 Review			        knots
-10-2	Other Terminal Operations		    	couch
-10-2 	Primitive-type Streams			    	seaweed
-10-2	Grouping Results			        president
-10-2	Reflection/Advice			        purple
+10-2	Lecture 10-1 Review
+		-Code: knots
+10-2	Other Terminal Operations
+		-Code: couch
+10-2 	Primitive-type Streams
+		-Code: eaweed
+10-2	Grouping Results
+		-Code: president
+10-2	Reflection/Advice
+		-Code: purple
