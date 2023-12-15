@@ -187,7 +187,7 @@
 10-2	Other Terminal Operations
 		-Code: couch
 10-2 	Primitive-type Streams
-		-Code: eaweed
+		-Code: seaweed
 10-2	Grouping Results
 		-Code: president
 10-2	Reflection/Advice
